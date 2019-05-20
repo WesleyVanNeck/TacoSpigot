@@ -19,8 +19,8 @@
     <url>https://github.com/TacoSpigot/TacoSpigot</url>
 
     <modules>
-        <module>TacoSpigot-Server</module>
-        <module>TacoSpigot-API</module>
+        <module>Paper-Server</module>
+        <module>Paper-API</module>
     </modules>
 
     <properties>
